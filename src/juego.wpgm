@@ -1,0 +1,7 @@
+import wollok.game.*
+import pesca.*
+
+program juego {
+	pantalla.pantallaInicio()
+    game.start()
+}
